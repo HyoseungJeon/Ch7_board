@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ch7_board</string>
+    <string name="loginurl">login</string>
+    <string name="signupurl">signup</string>
+</resources>
